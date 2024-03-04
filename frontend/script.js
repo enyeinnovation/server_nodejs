@@ -1,4 +1,4 @@
-var url = "https://webpt19b.cyclic.app/movies";
+var url = "https://enyeinnovation.cyclic.app/movies";
 const movieListContainer = document.getElementById("movieList");
 
 // Fetch data from the specified URL
